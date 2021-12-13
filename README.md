@@ -1,6 +1,7 @@
 # Pewlett_Hackard_Analysis
 
-I am tasked with determining the number of retiring employees per title and identify employees who are eligible to participate in a mentorship program. This we aid is management in preparing for a large exodus of employees who have reached retirement age. 
+I am tasked with determining the number of retiring employees per title and identify employees who are eligible to participate in a mentorship program. This will aid management in preparing for a large exodus of employees who have reached retirement age. 
+
 ##Results:
 
 *As the bar graph shows below, the majority of those of retiring age are in the positions of Senior Engineer or Senior Staff.    The pie chart will show that together, these positions make up roughly 64% of the current staff. 

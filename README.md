@@ -20,6 +20,6 @@ I am tasked with determining the number of retiring employees per title and iden
 
 ![ment_elig_count](https://user-images.githubusercontent.com/92542382/145751780-f5340d43-ee9e-4f5d-8a97-09e8e835f210.png) 
 
-* Out of the 90,398 employees that will retire, there are only 1,549 that can mentor that next generation of employees.  Therefore only 1,549 employees out of the 90,398 being lost, can be replaced effectively adn effeciently. 
+* Out of the 90,398 employees that will retire, there are only 1,549 that can mentor that next generation of employees.  Therefore only 1,549 employees out of the 90,398 being lost, can be trained effectively and efficiently.
 
 

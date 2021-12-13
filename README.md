@@ -16,9 +16,6 @@ I am tasked with determining the number of retiring employees per title and iden
 
 * There are 1,549 current employees who are eligible to mentor the next generation of Pewlett Hackard employees.  A breakdown on those eligible based on title can be seen below. 
 
-* There are not enough Senior Engineers (169) to each mentor  an Engineer (501). However, there are enough Engineers to mentor Assistant Engineers (78)
-
-* Each person with the title of Staff (155) would each get a Senior Staff mentor (569).  
 
 ![ment_elig_title_count](https://user-images.githubusercontent.com/92542382/145750677-6989d83a-606f-4e4e-bd20-145190d01886.png)
 
